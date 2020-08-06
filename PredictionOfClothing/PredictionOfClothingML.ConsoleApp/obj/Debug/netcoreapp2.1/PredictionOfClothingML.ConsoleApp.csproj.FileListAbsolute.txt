@@ -1,0 +1,48 @@
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.deps.json
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.runtimeconfig.json
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.runtimeconfig.dev.json
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.dll
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.pdb
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.Model.dll
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.Model.pdb
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.csprojAssemblyReference.cache
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.AssemblyInfoInputs.cache
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.AssemblyInfo.cs
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.csproj.CopyComplete
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.dll
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.pdb
+D:\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.genruntimeconfig.cache
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.deps.json
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.runtimeconfig.json
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.runtimeconfig.dev.json
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.dll
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.pdb
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.Model.dll
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.Model.pdb
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.csprojAssemblyReference.cache
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.AssemblyInfoInputs.cache
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.AssemblyInfo.cs
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.csproj.CopyComplete
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.dll
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.pdb
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.genruntimeconfig.cache
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.deps.json
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.runtimeconfig.json
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.runtimeconfig.dev.json
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.dll
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.pdb
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.Model.dll
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictionOfClothingML.Model.pdb
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.csprojAssemblyReference.cache
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.AssemblyInfoInputs.cache
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.AssemblyInfo.cs
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.csproj.CopyComplete
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.dll
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.pdb
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictionOfClothingML.ConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+D:\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\PredictionOfClothingML.Model.deps.json
+D:\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\PredictionOfClothingML.Model.dll
+D:\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\PredictionOfClothingML.Model.pdb
+D:\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.csprojAssemblyReference.cache
+D:\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.csproj.CoreCompileInputs.cache
+D:\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.AssemblyInfoInputs.cache
+D:\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.AssemblyInfo.cs
+D:\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.dll
+D:\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.pdb
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\PredictionOfClothingML.Model.deps.json
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\PredictionOfClothingML.Model.dll
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\PredictionOfClothingML.Model.pdb
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.csprojAssemblyReference.cache
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.csproj.CoreCompileInputs.cache
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.AssemblyInfoInputs.cache
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.AssemblyInfo.cs
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.dll
+D:\projelerim\makine ögrenmesi yapay zeka\PredictionOfClothing\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.pdb
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\PredictionOfClothingML.Model.deps.json
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\PredictionOfClothingML.Model.dll
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\bin\Debug\netstandard2.0\PredictionOfClothingML.Model.pdb
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.csprojAssemblyReference.cache
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.csproj.CoreCompileInputs.cache
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.AssemblyInfoInputs.cache
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.AssemblyInfo.cs
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.dll
+D:\PredictionOfClothing\PredictionOfClothing\PredictionOfClothingML.Model\obj\Debug\netstandard2.0\PredictionOfClothingML.Model.pdb
