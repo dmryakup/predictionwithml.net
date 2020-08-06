@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothing.csproj": {}
+  },
+  "projects": {
+    "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothingML.Model\\PredictionOfClothingML.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothingML.Model\\PredictionOfClothingML.Model.csproj",
+        "projectName": "PredictionOfClothingML.Model",
+        "projectPath": "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothingML.Model\\PredictionOfClothingML.Model.csproj",
+        "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
+        "outputPath": "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothingML.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yakup\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.0-preview, )"
+            },
+            "Microsoft.ML.Recommender": {
+              "target": "Package",
+              "version": "[0.17.0-preview, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothing.csproj",
+        "projectName": "PredictionOfClothing",
+        "projectPath": "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothing.csproj",
+        "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
+        "outputPath": "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yakup\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothingML.Model\\PredictionOfClothingML.Model.csproj": {
+                "projectPath": "D:\\PredictionOfClothing\\PredictionOfClothing\\PredictionOfClothingML.Model\\PredictionOfClothingML.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
